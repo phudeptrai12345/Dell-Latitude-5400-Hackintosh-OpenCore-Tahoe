@@ -51,7 +51,14 @@ Working
     Multi-Jack (both cold- and hotplug)
     Dedicated brightness control keys 
 
-Some .aml files and some other files will not work on your computer you need check.
+
+⚠️ WARNING ⚠️
+
+Some AML files and other EFI files **may not work on your machine**.  
+You need to **check, tweak, and test** before booting.  
+
+Backup your EFI first!  
+USE AT YOUR OWN RISK.
 ## Contributors
 
 - phudeptrai12345 [phudeptrai12345](https://github.com/phudeptrai12345)
