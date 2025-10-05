@@ -1,1 +1,37 @@
 # Dell-Latitude-5400-Hackintosh-OpenCore-Tahoe
+OpenCore EFI to run MacOS on Dell Latitude 5400
+
+Hackintosh for Dell Latitude 5400
+
+	
+CPU 	Intel Core i5-8365U CPU
+RAM 	8GB DDR4 2666MHz
+IGPU 	Intel UHD 620
+SSD 	BC511 NVMe SK hynix 256GB
+ETH 	Intel I217-LM
+WLAN+BT 	Intel 9560NGW 
+Audio 	Realtek ALC236
+Ports 	USB-C (PD+DP-AltMode), 3xUSB3.0, HDMI, microSD, Multi-Jack, DC
+
+<img width="416" height="637" alt="Ảnh màn hình 2025-10-05 lúc 15 13 30" src="https://github.com/user-attachments/assets/7539c8a9-403f-4e62-93c4-bdaebe2f8d71" />
+
+Working
+
+    Everything what is not in the Not working section :D
+    Bluetooth (4.0, LE, Handoff) [out-of-the-box, no kext needed]
+    WLAN [no kext needed] (recommended)
+    Intel WLAN [kexts added, but not that stable]
+    Ethernet
+    HDMI, DisplayPort Alt Mode (all with sound, but no volume adjustment)
+    USB-C (I'm using it with a docking station all the time)
+    USB ports mapped, working after sleep
+    TrackPad with gestures (visible as Magic Trackpad 2)
+    Audio, with speaker and microphone support
+    QE/CI
+    Sleep
+    TouchPad buttons
+    TrackStick
+    Multi-Jack (both cold- and hotplug)
+     Dedicated brightness control keys (use Fn+S/Fn+B instead
+
+Some .aml files and some other files will not work on your computer you need check.
