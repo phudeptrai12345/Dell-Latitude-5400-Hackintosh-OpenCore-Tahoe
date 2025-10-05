@@ -40,6 +40,6 @@ Working
     TouchPad buttons
     TrackStick
     Multi-Jack (both cold- and hotplug)
-     Dedicated brightness control keys (use Fn+S/Fn+B instead
+    Dedicated brightness control keys 
 
 Some .aml files and some other files will not work on your computer you need check.
