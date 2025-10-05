@@ -2,23 +2,17 @@
 OpenCore EFI to run MacOS on Dell Latitude 5400
 
 Hackintosh for Dell Latitude 5400
+| | |
+|-|-|
+|**CPU**|Intel Core i5-8365U CPU|
+|**RAM**|8GB DDR4 2666MHz|
+|**IGPU**|Intel UHD 620|
+|**SSD**|BC511 NVMe SK hynix 256GB|
+|**ETH**|Intel I217-LM|
+|**WLAN+BT**|Intel 9560NGW |
+|**Audio**|Realtek ALC236|
+|**Ports**|USB-C (PD+DP-AltMode), 3xUSB3.0, HDMI, microSD, Multi-Jack, DC|
 
-	
-CPU 	Intel Core i5-8365U CPU
-
-RAM 	8GB DDR4 2666MHz
-
-IGPU 	Intel UHD 620
-
-SSD 	BC511 NVMe SK hynix 256GB
-
-ETH 	Intel I217-LM
-
-WLAN+BT 	Intel 9560NGW 
-
-Audio 	Realtek ALC236
-
-Ports 	USB-C (PD+DP-AltMode), 3xUSB3.0, HDMI, microSD, Multi-Jack, DC
 
 
 <img width="416" height="637" alt="Ảnh màn hình 2025-10-05 lúc 15 13 30" src="https://github.com/user-attachments/assets/ae34cfa1-a734-4056-bb89-9e4c8a8151d0" />
