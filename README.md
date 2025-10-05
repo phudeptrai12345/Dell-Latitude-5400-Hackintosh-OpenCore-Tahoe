@@ -21,7 +21,8 @@ Audio 	Realtek ALC236
 Ports 	USB-C (PD+DP-AltMode), 3xUSB3.0, HDMI, microSD, Multi-Jack, DC
 
 
-<img width="416" height="637" alt="Ảnh màn hình 2025-10-05 lúc 15 13 30" src="https://github.com/user-attachments/assets/7539c8a9-403f-4e62-93c4-bdaebe2f8d71" />
+<img width="416" height="637" alt="Ảnh màn hình 2025-10-05 lúc 15 13 30" src="https://github.com/user-attachments/assets/ae34cfa1-a734-4056-bb89-9e4c8a8151d0" />
+
 Fix for audio please follow the picture:
 ![fix adiou1](https://github.com/user-attachments/assets/f25645dd-259e-4406-9aac-ef7d88ba46b0)
 ![2fix adiou](https://github.com/user-attachments/assets/43ad71a6-bb3c-4dc2-8d8c-7466a469aeb0)
