@@ -53,7 +53,7 @@ Working
 
 
 ⚠️ WARNING ⚠️
-
+It's just a guide and the efi is from my device so it may not be compatible with your device.
 Some AML files and other EFI files **may not work on your machine**.  
 You need to **check, tweak, and test** before booting.  
 
