@@ -43,3 +43,7 @@ Working
     Dedicated brightness control keys 
 
 Some .aml files and some other files will not work on your computer you need check.
+## Contributors
+
+- phudeptrai12345 [phudeptrai12345](https://github.com/phudeptrai12345)
+
