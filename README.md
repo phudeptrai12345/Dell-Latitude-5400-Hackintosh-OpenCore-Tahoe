@@ -13,6 +13,10 @@ Hackintosh for Dell Latitude 5400
 |**Audio**|Realtek ALC236|
 |**Ports**|USB-C (PD+DP-AltMode), 3xUSB3.0, HDMI, microSD, Multi-Jack, DC|
 
+WARRING :Current EFI build does not include Wi-Fi kexts.
+macOS installer may require internet connection during setup.
+Please manually add your own itlwm.kext or use an offline installer instead.
+
 
 
 <img width="416" height="637" alt="Ảnh màn hình 2025-10-05 lúc 15 13 30" src="https://github.com/user-attachments/assets/ae34cfa1-a734-4056-bb89-9e4c8a8151d0" />
